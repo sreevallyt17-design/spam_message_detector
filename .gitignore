@@ -9,6 +9,5 @@ venv/
 # VS Code
 .vscode/
 
-# Data & models (optional, can push if small)
+# Data
 data/
-model/
